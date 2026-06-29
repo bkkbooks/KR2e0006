@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2e0006/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 貞觀政要
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 23:42:51.550065'
+  source:
+    repository: kanripo
+    path: KR2e0006/KR2e0006_009.txt
+hash: sha256:ae3b32418fe2c689a9ff72a2bb0b69cb7b046ef1c4f9f861413958162c7eeac3
