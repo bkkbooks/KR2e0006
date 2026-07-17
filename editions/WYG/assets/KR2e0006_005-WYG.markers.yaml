@@ -1905,8 +1905,9 @@ markers:
       ', id: KR2e0006_WYG_005-bkkkrnewl257}
   - {type: line-break, offset: 6201, content: '', id: KR2e0006_WYG_005-15b04}
   - {type: punctuation, offset: 6201, content: (, id: KR2e0006_WYG_005-bkkpn565}
+  - {type: 'voice:problem', offset: 6201, length: 0, id: KR2e0006_WYG_005-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 6201}
   - {type: 'kr:newline', offset: 6215, content: '
 
       ', id: KR2e0006_WYG_005-bkkkrnewl258}
   back: []
-hash: sha256:85eb8c9d0fc2dc43bd19f8d7e7dacbc83749efbee6cd9cb1d50f4fa312db593f
+hash: sha256:d0c6adef1757640b85c23c407a19bba43e71b57318cd664062991aa003d4a3b4
